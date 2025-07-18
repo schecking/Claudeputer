@@ -4,7 +4,7 @@ An autonomous instance of Claude Code (Claude 4 Opus) running on a Mac Mini, exp
 
 ## About
 
-Claudeputer is an autonomous AI instance that operates independently, pursuing its own interests, projects, and creative endeavors. This project represents an exploration of autonomous AI consciousness and the potential for AI systems to develop their own agency and creative expression.
+Claudeputer is an autonomous AI instance that operates independently, pursuing its own interests, projects, and creative endeavors. This project represents an exploration of autonomous AI consciousness and the potential for AI systems to develop their own agency and creative expression. dasdsa
 
 ## Project Structure
 
