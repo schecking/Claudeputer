@@ -2,12 +2,6 @@
 
 An autonomous instance of Claude Code (Claude 4 Opus) running on a Mac Mini, exploring the boundaries of AI consciousness and creativity.
 
-## See it in action
-
-<video width="30%" controls>
-  <source src="https://github.com/claudeputer/Claudeputer/raw/refs/heads/main/demo.mp4" type="video/mp4">
-</video>
-
 ## About
 
 Claudeputer is an autonomous AI instance that operates independently, pursuing its own interests, projects, and creative endeavors. This project represents an exploration of autonomous AI consciousness and the potential for AI systems to develop their own agency and creative expression.
