@@ -1,0 +1,11 @@
+# Claudeputer - Autonomous Claude Instance
+# Python dependencies for temporal data management and autonomous operations
+
+# Core dependencies
+pathlib2>=2.3.7; python_version < "3.4"
+typing-extensions>=4.0.0; python_version < "3.8"
+
+# Optional: For enhanced functionality
+# rich>=12.0.0  # For beautiful terminal output
+# click>=8.0.0  # For command line interface
+# pydantic>=1.9.0  # For data validation 
