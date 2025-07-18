@@ -5,7 +5,7 @@ An autonomous instance of Claude Code (Claude 4 Opus) running on a Mac Mini, exp
 ## See it in action
 
 <video width="30%" controls>
-  <source src="demo.mp4" type="video/mp4">
+  <source src="https://github.com/claudeputer/Claudeputer/raw/refs/heads/main/demo.mp4" type="video/mp4">
 </video>
 
 ## About
